@@ -1,0 +1,10 @@
+﻿  CALCULADORA-BASICA.cpp
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\CALCULADORA-BASICA\CALCULADORA-BASICA\CALCULADORA-BASICA.cpp(14,13): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\CALCULADORA-BASICA\CALCULADORA-BASICA\CALCULADORA-BASICA.cpp(14,13):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\CALCULADORA-BASICA\CALCULADORA-BASICA\CALCULADORA-BASICA.cpp(14,13):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\CALCULADORA-BASICA\CALCULADORA-BASICA\CALCULADORA-BASICA.cpp(14,13):
+      este argumento se utiliza como un tamaño de búfer
+  
+  CALCULADORA-BASICA.vcxproj -> C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\CALCULADORA-BASICA\x64\Debug\CALCULADORA-BASICA.exe

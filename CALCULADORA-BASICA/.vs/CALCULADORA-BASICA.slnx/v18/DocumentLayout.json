@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ricar\\OneDrive\\MIS PROYECTOS\\RETOS.PROGRAMACIONN\\CALCULADORA-BASICA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB03691C-ECEB-40EB-8FFE-4394B39BB3D9}|CALCULADORA-BASICA\\CALCULADORA-BASICA.vcxproj|C:\\Users\\ricar\\OneDrive\\MIS PROYECTOS\\RETOS.PROGRAMACIONN\\CALCULADORA-BASICA\\CALCULADORA-BASICA\\CALCULADORA-BASICA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DB03691C-ECEB-40EB-8FFE-4394B39BB3D9}|CALCULADORA-BASICA\\CALCULADORA-BASICA.vcxproj|solutionrelative:CALCULADORA-BASICA\\CALCULADORA-BASICA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CALCULADORA-BASICA.cpp",
+              "DocumentMoniker": "C:\\Users\\ricar\\OneDrive\\MIS PROYECTOS\\RETOS.PROGRAMACIONN\\CALCULADORA-BASICA\\CALCULADORA-BASICA\\CALCULADORA-BASICA.cpp",
+              "RelativeDocumentMoniker": "CALCULADORA-BASICA\\CALCULADORA-BASICA.cpp",
+              "ToolTip": "C:\\Users\\ricar\\OneDrive\\MIS PROYECTOS\\RETOS.PROGRAMACIONN\\CALCULADORA-BASICA\\CALCULADORA-BASICA\\CALCULADORA-BASICA.cpp",
+              "RelativeToolTip": "CALCULADORA-BASICA\\CALCULADORA-BASICA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-18T02:34:48.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
