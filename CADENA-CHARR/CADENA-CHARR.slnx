@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="CADENA-CHARR/CADENA-CHARR.vcxproj" />
+  <Project Path="CADENA-CHARR/CADENA-CHARR.vcxproj" Id="d9600046-a358-48bf-be7f-d6fc7ea24a1f" />
 </Solution>
