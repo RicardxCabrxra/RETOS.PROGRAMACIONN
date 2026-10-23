@@ -1,0 +1,10 @@
+﻿  AHORCADO1.cpp
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\AHORCADO1\AHORCADO1\AHORCADO1.cpp(38,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\AHORCADO1\AHORCADO1\AHORCADO1.cpp(38,17):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\AHORCADO1\AHORCADO1\AHORCADO1.cpp(38,17):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\AHORCADO1\AHORCADO1\AHORCADO1.cpp(38,17):
+      este argumento se utiliza como un tamaño de búfer
+  
+  AHORCADO1.vcxproj -> C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\AHORCADO1\x64\Debug\AHORCADO1.exe

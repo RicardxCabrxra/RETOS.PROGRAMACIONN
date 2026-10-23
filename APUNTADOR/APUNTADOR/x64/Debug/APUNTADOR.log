@@ -1,8 +1,8 @@
 ﻿  APUNTADOR.cpp
-C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(14,75): warning C4311: 'conversión de tipo': truncamiento de puntero de 'int *' a 'unsigned int'
-C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(14,75): warning C4302: 'conversión de tipo': truncamiento de 'int *' a 'unsigned int'
-C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(16,75): warning C4311: 'conversión de tipo': truncamiento de puntero de 'int *' a 'unsigned int'
-C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(16,75): warning C4302: 'conversión de tipo': truncamiento de 'int *' a 'unsigned int'
-C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(19,67): warning C4311: 'conversión de tipo': truncamiento de puntero de 'char *' a 'unsigned int'
-C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(19,67): warning C4302: 'conversión de tipo': truncamiento de 'char *' a 'unsigned int'
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(18,75): warning C4311: 'conversión de tipo': truncamiento de puntero de 'int *' a 'unsigned int'
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(18,75): warning C4302: 'conversión de tipo': truncamiento de 'int *' a 'unsigned int'
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(20,75): warning C4311: 'conversión de tipo': truncamiento de puntero de 'int *' a 'unsigned int'
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(20,75): warning C4302: 'conversión de tipo': truncamiento de 'int *' a 'unsigned int'
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(23,67): warning C4311: 'conversión de tipo': truncamiento de puntero de 'char *' a 'unsigned int'
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\APUNTADOR\APUNTADOR.cpp(23,67): warning C4302: 'conversión de tipo': truncamiento de 'char *' a 'unsigned int'
   APUNTADOR.vcxproj -> C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\APUNTADOR\x64\Debug\APUNTADOR.exe
