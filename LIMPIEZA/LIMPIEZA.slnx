@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LIMPIEZA/LIMPIEZA.vcxproj" Id="1b0173dc-fc77-431c-b46f-7ee3cc866ff1" />
+</Solution>

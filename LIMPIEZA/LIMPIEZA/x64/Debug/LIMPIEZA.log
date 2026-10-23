@@ -1,0 +1,10 @@
+﻿  LIMPIEZA.cpp
+C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\LIMPIEZA\LIMPIEZA\LIMPIEZA.cpp(24,17): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\LIMPIEZA\LIMPIEZA\LIMPIEZA.cpp(24,17):
+      los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\LIMPIEZA\LIMPIEZA\LIMPIEZA.cpp(24,17):
+      el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+      C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\LIMPIEZA\LIMPIEZA\LIMPIEZA.cpp(24,17):
+      este argumento se utiliza como un tamaño de búfer
+  
+  LIMPIEZA.vcxproj -> C:\Users\ricar\OneDrive\MIS PROYECTOS\RETOS.PROGRAMACIONN\LIMPIEZA\x64\Debug\LIMPIEZA.exe
